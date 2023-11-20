@@ -42,6 +42,7 @@ login using public ip address, a prompt will show up to type in username and pas
 <br />
 
 <p>
+![image](https://github.com/IT-chris-k/post-install-config/assets/150845863/548f3fcc-d927-4c46-855a-913584698131)
 
 </p>
 <p>
