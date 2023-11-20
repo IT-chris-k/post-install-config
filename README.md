@@ -55,8 +55,20 @@ Since we are still setting things up, lets use the osTicket login website
 </p>
 ![image](https://github.com/IT-chris-k/post-install-config/assets/150845863/0f833d0a-fc45-48b4-b534-21f01ee75ea4)
 
+<br />
+
+
+
+![image](https://github.com/IT-chris-k/post-install-config/assets/150845863/d7b6c50d-c4bf-4c54-855d-c9bde883e048)
+
+
 <p>
 Once youre logged in click on the Admin panel to start configuring things.
+  you can define custom roles for somebody. we will be creating a custom admin role
+  Admin Panel -> Agents -> Roles -> Add a new role
+  Define a role by giving it a name and set the permissions on what this role is able to do.
+  In this example we will create a supreme admin role that has access to all permissions.
+  For security purposes it is better to follow the least privilege access concept, having an account that has every permission is not safe.
 
   
 </p>
