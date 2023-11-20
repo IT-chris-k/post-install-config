@@ -41,10 +41,11 @@ login using public ip address, a prompt will show up to type in username and pas
 </p>
 <br />
 
-<p>
-![image](https://github.com/IT-chris-k/post-install-config/assets/150845863/548f3fcc-d927-4c46-855a-913584698131)
 
-</p>
+![image](https://github.com/IT-chris-k/post-install-config/assets/150845863/ca404d8c-3462-4820-ae40-05f901b85554)
+
+
+
 <p>
 Since we are still setting things up, lets use the osTicket login website
   http://localhost/osTicket/login.php
@@ -52,6 +53,14 @@ Since we are still setting things up, lets use the osTicket login website
   this will ensure you login as an agent to configure things as an admin.
   
 </p>
+![image](https://github.com/IT-chris-k/post-install-config/assets/150845863/0f833d0a-fc45-48b4-b534-21f01ee75ea4)
+
+<p>
+Once youre logged in click on the Admin panel to start configuring things.
+
+  
+</p>
+
 <br />
 
 <p>
