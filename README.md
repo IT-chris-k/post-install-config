@@ -75,10 +75,86 @@ Once youre logged in click on the Admin panel to start configuring things.
 
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/IT-chris-k/post-install-config/assets/150845863/c2cf9750-7f96-4044-9cdd-132f74eb0382)
+
+![image](https://github.com/IT-chris-k/post-install-config/assets/150845863/0849c655-b595-4365-bcf7-58210c74465a)
+
+![image](https://github.com/IT-chris-k/post-install-config/assets/150845863/2629f624-c21b-42d0-9ef1-697afb3910b1)
+
+
+
+
+<p>For configuring departments go to Admin Panel -> Agents -> Departments -> new Department
+  Departments are for grouping agents based on their role in the company. 
+  Teams allow you to take agents from different departments to organize them to handle specific issues by different users or ticket filter.
+  In this example we will create a department for system administrators. 
 </p>
+
+
+
+![image](https://github.com/IT-chris-k/post-install-config/assets/150845863/b58a7f23-c704-4849-abf6-03b63aaa5c71)
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Require users to register and login before creating tickets is helpful for indicating who had an issue, and who to contact once the issue has been resolved.
+
 </p>
 <br />
+
+
+![image](https://github.com/IT-chris-k/post-install-config/assets/150845863/b8687e99-df5e-40ae-b331-cca72e6aec9f)
+
+
+<p>
+
+  Agents are reponsible for finding the answers to the tickets and resolving them in a timely manner.
+  Agents are those in the help desk or tech support role responsible for creating and taking care of tickets.
+  
+</p>
+
+
+
+<p>
+
+  Users are able to create accounts and tickets.
+
+</p>
+
+![image](https://github.com/IT-chris-k/post-install-config/assets/150845863/617b88fd-b737-438f-8c64-9e9ad3dd5b1b)
+
+
+<p>
+  Under Agent Panel -> Users -> Create new user
+</p>
+
+![image](https://github.com/IT-chris-k/post-install-config/assets/150845863/ca29b17a-919f-4eae-b795-64bafdc80cca)
+
+<p>
+  SLA or service level agreements are rules set in place for how long a help desk admin expects a ticket to be closed.
+  SLA have different levels allowing for prioritization.
+  Configured in Admin Panel -> Manage -> SLA -> new SLA
+  
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
