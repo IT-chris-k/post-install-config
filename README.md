@@ -135,6 +135,20 @@ Require users to register and login before creating tickets is helpful for indic
   
 </p>
 
+![image](https://github.com/IT-chris-k/post-install-config/assets/150845863/85554ebd-2460-4f03-9ffa-466e7c34d01c)
+
+
+![image](https://github.com/IT-chris-k/post-install-config/assets/150845863/b2c85465-30b7-46c7-9830-bf2f2189b685)
+
+<p>
+  Admin Panel -> Manage -> Help Topics -> Add Help Topic
+  Topic is a self explanatory
+  Status: It must be active in order to be visible in the drop down list
+  Type: When private, it can only be visible if ticket created internally by agent
+  
+  
+  
+</p>
 
 
 
